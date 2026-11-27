@@ -38,10 +38,19 @@ for making a book with it, and its documentation.
 
 ## Licences
 
-The toolkit is under the Mozilla Public License 2.0. Its Markdown conventions and its documentation, this page
-included, are under CC BY-SA 4.0. The designed styles, `sjmch/styles`, are free for non-commercial use, with a paid
-licence for commercial use. The details are in
-[NOTICE.md](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/NOTICE.md). Please get in
-touch before sending changes.
+The toolkit is under the GNU Affero General Public License, version 3 or later: free to use and adapt, with
+changes shared alike and the credit kept. A press's books, configuration and styling stay its own. Its Markdown
+conventions and its documentation, this page included, are under CC BY-SA 4.0. The designed styles, `sjmch/styles`,
+are licensed by arrangement. The details are in
+[NOTICE.md](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/NOTICE.md).
 
-Copyright © 2026 Studio Julien McHardy (SJMcH). Made with and for https://matteringpress.org
+## Contributing
+
+Other presses are welcome to use everytrick, to adapt it and to send improvements back. Contributions carry a
+sign-off and no contributor agreement, and contributors are named in
+[CONTRIBUTORS.md](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/CONTRIBUTORS.md) and on
+https://everytrick.org/. How to send a change:
+[CONTRIBUTING.md](https://github.com/mattering-press/Hear-Here-Spatial-Practices/blob/main/everytrick/CONTRIBUTING.md).
+
+Founded by Julien McHardy (Studio Julien McHardy, SJMcH). Copyright © 2026 Studio Julien McHardy (SJMcH) and the
+everytrickinthebook contributors. Made with and for https://matteringpress.org
